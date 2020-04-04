@@ -1,0 +1,20 @@
+.center {
+    margin: auto;
+}
+
+ 
+  
+  #footer {
+  
+    width: 100%;
+             /* Footer height */
+  }
+
+  .border-bottom:hover{
+  color:red;
+  background: white;
+
+  }
+  body{
+    background: 	#F5F5F5;
+  }
